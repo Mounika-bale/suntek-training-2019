@@ -23,7 +23,7 @@ printf("\nStrings are not anagram");
 }
 else{
 printf("\ninvalid strings");
-}
+}}
 return 0;
 }
 
