@@ -15,11 +15,15 @@ if(s[i]==s1[j]){
  flag=1; 
  break;
 }
-}}
+}
 if(flag==1)
 printf("\nStrings are anagram");
 else
 printf("\nStrings are not anagram");
+}
+else{
+printf("\ninvalid strings");
+}
 return 0;
 }
 
